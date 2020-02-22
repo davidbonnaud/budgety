@@ -1,5 +1,5 @@
 # Budgety
-A budget application created with vanilla JavaScript, HTML, and CSS.
+A budget application created with vanilla JavaScript, HTML, and CSS. Try it here: https://davidbonnaud.github.io/budgety/
  
 <img src="budgety.png">     
 
