@@ -1,5 +1,5 @@
 # Budgety
-A budget application created with JavaScript.
+A budget application created with vanilla JavaScript, HTML, and CSS.
  
 <img src="budgety.png">     
 
