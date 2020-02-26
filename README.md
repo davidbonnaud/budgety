@@ -6,3 +6,4 @@ A budget application created with vanilla JavaScript, HTML, and CSS. Try it here
 ## Application Architecture
 
 <img src="budgety-architecture.png">   
+
